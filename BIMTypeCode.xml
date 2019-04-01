@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <System xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Source>-</Source>
-	<Edition>1.X.X</Edition>
-	<EditionDate>2019-MM-DD</EditionDate>
+	<Source>BIM Stockholm</Source>
+	<Edition>1.0</Edition>
+	<EditionDate>2018-10-10</EditionDate>
 	<Name>BIM Typecode</Name>
 	<Description_dk>Typekode til digitale byggeobjekter</Description_dk>
 	<Description_de>-</Description_de>
 	<Description_en>Type code for digital building objects</Description_en>
-	<Description_se>-</Description_se>
-	<Location>-</Location>
+	<Description_se>Generell kodning av byggnadsdelar</Description_se>
+	<Location>http://bimstockholm.se/SE/typkod.html</Location>
 	<Items>
 		<Item>
 			<Identification>0</Identification>
@@ -576,6 +576,23 @@
 			<CCS_R1>[D]</CCS_R1>
 			<CoClass>DDA</CoClass>
 			<Forvaltningklassifikation_V2.3>t</Forvaltningklassifikation_V2.3>
+		</Item>
+		<Item>
+			<Identification>11</Identification>
+			<Name_se>Pålar</Name_se>
+			<BSABe>15</BSABe>
+		</Item>
+		<Item>
+			<Identification>111</Identification>
+			<Name_se>Prefabricerade pålar</Name_se>
+		</Item>
+		<Item>
+			<Identification>112</Identification>
+			<Name_se>Platsgjutna pålar</Name_se>
+		</Item>
+		<Item>
+			<Identification>119</Identification>
+			<Name_se>Pålar övrigt</Name_se>
 		</Item>
 		<Item>
 			<Identification>12</Identification>
