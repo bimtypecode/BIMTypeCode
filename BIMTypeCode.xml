@@ -479,11 +479,11 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity>IfcSite</IFC4_Entity>
+			<IFC4_Entity/>
 			<IFC4_EntityType/>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
-			<IFC2X3_Entity>IfcSite</IFC2X3_Entity>
+			<IFC2X3_Entity/>
 			<IFC2X3_EntityType/>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
@@ -506,9 +506,9 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity>IfcSite</IFC4_Entity>
-			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
-			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
+			<IFC4_Entity/>
+			<IFC4_EntityType/>
+			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
@@ -857,13 +857,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13065,7 +13065,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>CABLETRAYSEGMENT</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
@@ -13091,7 +13091,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcCableCarrierSegment</IFC4_Entity>
 			<IFC4_EntityType>IfcCableCarrierSegmentType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>CABLETRAYSEGMENT</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcCableCarrierSegmentType</IFC2X3_EntityType>
@@ -13118,7 +13118,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>INSULATION<IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
@@ -13144,7 +13144,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>INSULATION</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
@@ -13170,7 +13170,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
 			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>INSULATION</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
@@ -13197,11 +13197,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
 			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
-			<IFC2X3_EnumerationType>PROVISIONFORVOID</IFC2X3_EnumerationType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(68)</BC-SfB_1980>
 			<BSABe/>
@@ -13221,13 +13221,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
-			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcOpeningElement</IFC4_Entity>
+			<IFC4_EntityType>IfcOpenningElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>OPENING</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
-			<IFC2X3_EnumerationType>PROVISIONFORVOID</IFC2X3_EnumerationType>
+			<IFC2X3_Entity>IfcOpeningElement</IFC2X3_Entity>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationTyp/>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13247,13 +13247,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity>IfcOpeningElement</IFC4_Entity>
-			<IFC4_EntityType>IfcOpeningElementType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
+			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity>IfcOpeningElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType>OPENING</IFC2X3_EnumerationType>
+			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13276,7 +13276,7 @@
 			<Description_se/>
 			<IFC4_Entity>IfcBuildingElementProxy</IFC4_Entity>
 			<IFC4_EntityType>IfcBuildingElementProxyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
@@ -13302,11 +13302,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcJunctionBox</IFC4_Entity>
 			<IFC4_EntityType>IfcJunctionBoxType</IFC4_EntityType>
-			<IFC4_EnumerationType>POWER</IFC4_EnumerationType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcFlowFitting</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcJunctionBoxType</IFC2X3_EntityType>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13328,11 +13328,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcJunctionBox</IFC4_Entity>
 			<IFC4_EntityType>IfcJunctionBoxType</IFC4_EntityType>
-			<IFC4_EnumerationType>POWER</IFC4_EnumerationType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcFlowFitting</IFC2X3_Entity>
 			<IFC2X3_EntityType>IfcJunctionBoxType</IFC2X3_EntityType>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13406,13 +13406,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcCableSegment</IFC4_Entity>
+			<IFC4_EntityType>IfcCableSegmentType</IFC4_EntityType>
+			<IFC4_EnumerationType>CABLESEGMENT</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCableSegmentType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>CABLESEGMENT</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13432,12 +13432,12 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
+			<IFC4_Entity>IfcTransformer</IFC4_Entity>
+			<IFC4_EntityType>IfcTransformerType</IFC4_EntityType>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
+			<IFC2X3_Entity>IfcEnergyConversionDevice</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcTransformerType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
@@ -13458,13 +13458,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcElectricFlowStorageDevice</IFC4_Entity>
+			<IFC4_EntityType>IfcElectricFlowStorageDeviceType</IFC4_EntityType>
+			<IFC4_EnumerationType>UPS</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowStorageDevice</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcElectricFlowStorageDeviceType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>UPS</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13484,13 +13484,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcElectricFlowStorageDevice</IFC4_Entity>
+			<IFC4_EntityType>IfcElectricFlowStorageDeviceType</IFC4_EntityType>
+			<IFC4_EnumerationType>HARMONICFILTER</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowStorageDevice</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcElectricFlowStorageDeviceType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>HARMONICFILTER</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13510,13 +13510,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcElectricFlowStorageDevice</IFC4_Entity>
+			<IFC4_EntityType>IfcElectricFlowStorageDeviceType</IFC4_EntityType>
+			<IFC4_EnumerationType>HARMONICFILTER</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowStorageDevice</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcElectricFlowStorageDeviceType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>HARMONICFILTER</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13536,13 +13536,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcElectricFlowStorageDevice</IFC4_Entity>
+			<IFC4_EntityType>IfcElectricFlowStorageDeviceType</IFC4_EntityType>
+			<IFC4_EnumerationType>HARMONICFILTER</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowStorageDevice</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcElectricFlowStorageDeviceType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>HARMONICFILTER</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13589,13 +13589,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcCableSegment</IFC4_Entity>
+			<IFC4_EntityType>IfcCableSegmentType</IFC4_EntityType>
+			<IFC4_EnumerationType>CABLESEGMENT</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowSegment</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcCableSegmentType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>CABLESEGMENT</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -13615,13 +13615,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcElectricDistributionBoard</IFC4_Entity>
+			<IFC4_EntityType>IfcElectricDistributionBoardType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcElectricDistributionPoint</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcElectricDistributionPoint</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -14638,11 +14638,11 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcLightFixture</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcLightFixtureType</IFC4_EntityType>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
+			<IFC2X3_EntityType>IfcLightFixtureType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(63)5</BC-SfB_1980>
@@ -14663,14 +14663,14 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
+			<IFC4_Entity>IfcLightFixture</IFC4_Entity>
+			<IFC4_EntityType>IfcLightFixtureType</IFC4_EntityType>
 			<IFC4_EnumerationType/>
-			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
+			<IFC4_Properties>Pset_LightFixtureTypeCommon</IFC4_Properties>
+			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcLightFixtureType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType/>
-			<IFC2X3_Properties/>
+			<IFC2X3_Properties>Pset_LightFixtureTypeCommon</IFC2X3_Properties>
 			<BC-SfB_1980/>
 			<BSABe/>
 			<BSABwr/>
@@ -14689,14 +14689,14 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
-			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
+			<IFC4_Entity>IfcLightFixture</IFC4_Entity>
+			<IFC4_EntityType>IfcLightFixtureType</IFC4_EntityType>
+			<IFC4_EnumerationType>SECURITYLIGHTING</IFC4_EnumerationType>
+			<IFC4_Properties>Pset_LightFixtureTypeSecurityLighting</IFC4_Properties>
+			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcLightFixtureType</IFC2X3_EntityType>
 			<IFC2X3_EnumerationType/>
-			<IFC2X3_Properties/>
+			<IFC2X3_Properties>Pset_LightFixtureTypeSecurityLighting</IFC2X3_Properties>
 			<BC-SfB_1980/>
 			<BSABe/>
 			<BSABwr/>
@@ -14715,13 +14715,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcLightFixture</IFC4_Entity>
+			<IFC4_EntityType>IfcLightFixtureType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcLightFixtureType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16319,13 +16319,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16347,12 +16347,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(66)</BC-SfB_1980>
 			<BSABe/>
@@ -16372,13 +16372,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>ELEVATOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>ELEVATOR</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16398,13 +16398,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>LIFTINGGEAR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16424,13 +16424,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>ESCALATOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>ESCALATOR</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16450,13 +16450,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>MOVINGWALKWAY</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>MOVINGWALKWAY</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16478,12 +16478,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(66)</BC-SfB_1980>
 			<BSABe/>
@@ -16503,13 +16503,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>ELEVATOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>ELEVATOR</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16529,13 +16529,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>LIFTINGGEAR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16555,13 +16555,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16581,13 +16581,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcTransportElement</IFC4_Entity>
+			<IFC4_EntityType>IfcTransportElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>CRANEWAY</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcTransportElement</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcTransportElementType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -16666,7 +16666,7 @@
 			<IFC4_EntityType/>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
-			<IFC2X3_Entity>IfcFlowTerminal</IFC2X3_Entity>
+			<IFC2X3_Entity/>
 			<IFC2X3_EntityType/>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
@@ -17850,13 +17850,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSABe/>
@@ -17878,12 +17878,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -17905,12 +17905,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -17932,12 +17932,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>TERRAIN</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -17959,12 +17959,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -17986,12 +17986,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>TERRAIN</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -18013,12 +18013,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
@@ -18040,12 +18040,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe/>
@@ -18066,13 +18066,13 @@
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)7</BC-SfB_1980>
 			<BSABe>32.L</BSABe>
