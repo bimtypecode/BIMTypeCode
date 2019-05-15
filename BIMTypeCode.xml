@@ -2209,11 +2209,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
 			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>ACCESSORY_ASSEMBLY</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
 			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EnumerationType>ACCESSORY_ASSEMBLY</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<BSABe>27.HC/27.HD</BSABe>
@@ -2236,11 +2236,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
 			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>ACCESSORY_ASSEMBLY</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
 			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EnumerationType>ACCESSORY_ASSEMBLY</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<BSABe>27.HC/27.HD</BSABe>
@@ -2263,11 +2263,11 @@
 			<Description_se/>
 			<IFC4_Entity>IfcElementAssembly</IFC4_Entity>
 			<IFC4_EntityType>IfcElementAssemblyType</IFC4_EntityType>
-			<IFC4_EnumerationType/>
+			<IFC4_EnumerationType>ACCESSORY_ASSEMBLY</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcElementAssembly</IFC2X3_Entity>
 			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EnumerationType>ACCESSORY_ASSEMBLY</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(26)</BC-SfB_1980>
 			<BSABe>45.BB</BSABe>
@@ -2694,7 +2694,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType>DOOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -2721,7 +2721,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcWindow</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcWindowType</IFC4_EntityType>
 			<IFC4_EnumerationType>WINDOW</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcWindow</IFC2X3_Entity>
@@ -2748,7 +2748,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType>DOOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -2775,7 +2775,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcWindow</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcWindowType</IFC4_EntityType>
 			<IFC4_EnumerationType>WINDOW</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcWindow</IFC2X3_Entity>
@@ -2829,7 +2829,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -2937,7 +2937,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType>DOOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -2964,7 +2964,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcWindow</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcWindowType</IFC4_EntityType>
 			<IFC4_EnumerationType>WINDOW</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcWindow</IFC2X3_Entity>
@@ -2991,7 +2991,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType>DOOR</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -3018,7 +3018,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcWindow</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcWindowType</IFC4_EntityType>
 			<IFC4_EnumerationType>WINDOW</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcWindow</IFC2X3_Entity>
@@ -3072,8 +3072,8 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType>DOOR</IFC4_EnumerationType>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
+			<IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
 			<IFC2X3_EntityType/>
@@ -3099,7 +3099,7 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcDoor</IFC4_Entity>
-			<IFC4_EntityType/>
+			<IFC4_EntityType>IfcDoorType</IFC4_EntityType>
 			<IFC4_EnumerationType/>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcDoor</IFC2X3_Entity>
@@ -3202,17 +3202,17 @@
 			<Name_de>Hohlraumböden</Name_de>
 			<Name_en>Floor finishes raised on joists</Name_en>
 			<Name_se>Uppbyggda golv</Name_se>
-			<Description_dk>Fx plankegulve på strøer,  faldopbygget mørtellag med fliser,</Description_dk>
+			<Description_dk>Fx plankegulve på strøer, faldopbygget mørtellag med fliser</Description_dk>
 			<Description_de/>
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)1</BC-SfB_1980>
 			<BSABe>43.DA</BSABe>
@@ -3234,12 +3234,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)2</BC-SfB_1980>
 			<BSABe>43.DC</BSABe>
@@ -3261,12 +3261,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>FLOORING</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>FLOORING</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)3</BC-SfB_1980>
 			<BSABe>43.DEG</BSABe>
@@ -3288,12 +3288,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)</BC-SfB_1980>
 			<BSABe>43.DB/11</BSABe>
@@ -3315,11 +3315,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)</BC-SfB_1980>
@@ -3342,11 +3343,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_EnumerationType/>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)</BC-SfB_1980>
@@ -3369,12 +3371,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcCovering</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcCoveringType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcCovering</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcCoveringType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(33)</BC-SfB_1980>
 			<BSABe/>
@@ -17770,12 +17772,12 @@
 			<Description_en/>
 			<Description_se/>
 			<IFC4_Entity>IfcGeographicElement</IFC4_Entity>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
+			<IFC4_EntityType>IfcGeographicElementType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 			<IFC4_Properties/>
 			<IFC2X3_Entity>IfcBuildingElementProxy</IFC2X3_Entity>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
+			<IFC2X3_EntityType>IfcBuildingElementProxyType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC2X3_Properties/>
 			<BC-SfB_1980>(40)</BC-SfB_1980>
 			<BSABe>32.BC</BSABe>
