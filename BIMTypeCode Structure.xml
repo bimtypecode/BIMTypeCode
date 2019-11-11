@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<System xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Source>-</Source>
+    <Edition>X.X.X</Edition>
+    <EditionDate>2019-MM-DD</EditionDate>
+    <Name>BIM Typecode</Name>
+    <Description_dk>Typekode til digitale byggeobjekter</Description_dk>
+    <Description_de>-</Description_de>
+    <Description_en>Type code for digital building objects</Description_en>
+    <Description_se>-</Description_se>
+    <Location>-</Location>
+    <Items>
+        <Item>
+            <Identification>0</Identification>
+            <Name_dk>Generiske objekter</Name_dk>
+            <Name_de>Generische Objekte</Name_de>
+            <Name_en>Generic objects</Name_en>
+            <Name_se>Generiska objekt A</Name_se>
+            <Description_dk>-</Description_dk>
+            <Description_de>-</Description_de>
+            <Description_en>-</Description_en>
+            <Description_se>-</Description_se>
+            <Sort>1</Sort>
+            <ReferencedSource>BIM Typecode</ReferencedSource>
+            <HasReferences>01, 02, 03, 04, 05, 06, 07</HasReferences>
+            <RelatedObjects>
+                <IFC4_Entity>-</IFC4_Entity>
+                <IFC4_EntityType>-</IFC4_EntityType>
+                <IFC4_EnumerationType>-</IFC4_EnumerationType>
+                <IFC4_Properties>-</IFC4_Properties>
+                <IFC2X3_Entity>-</IFC2X3_Entity>
+                <IFC2X3_EntityType>-</IFC2X3_EntityType>
+                <IFC2X3_EnumerationType>-</IFC2X3_EnumerationType>
+                <IFC2X3_Properties>-</IFC2X3_Properties>
+                <IFC_Note_dk>-</IFC_Note_dk>
+            </RelatedObjects>
+            <RelatedClassifications>
+                <BIP>-</BIP>
+                <BSABe>-</BSABe>
+                <BSABwr>-</BSABwr>
+                <CCSClassification>-</CCSClassification>
+                <CoClass>-</CoClass>
+                <Forvaltningklassifikation>-</Forvaltningklassifikation>
+                <SfB>-</SfB>
+            </RelatedClassifications>
+        </Item>
+        <Item>
+            <Identification>01</Identification>
+            <Name_dk>Generiske objekter ARK</Name_dk>
+            <Name_de>Generische Objekte, Architekt</Name_de>
+            <Name_en>Generic objects ARC</Name_en>
+            <Name_se>Generiska objekt A</Name_se>
+            <Description_dk>-</Description_dk>
+            <Description_de>-</Description_de>
+            <Description_en>-</Description_en>
+            <Description_se>-</Description_se>
+            <Sort>2</Sort>
+            <ReferencedSource>01</ReferencedSource>
+            <HasReferences>011</HasReferences>
+            <RelatedObjects>
+                <IFC4_Entity>-</IFC4_Entity>
+                <IFC4_EntityType>-</IFC4_EntityType>
+                <IFC4_EnumerationType>-</IFC4_EnumerationType>
+                <IFC4_Properties>-</IFC4_Properties>
+                <IFC2X3_Entity>-</IFC2X3_Entity>
+                <IFC2X3_EntityType>-</IFC2X3_EntityType>
+                <IFC2X3_EnumerationType>-</IFC2X3_EnumerationType>
+                <IFC2X3_Properties>-</IFC2X3_Properties>
+                <IFC_Note_dk>-</IFC_Note_dk>
+            </RelatedObjects>
+            <RelatedClassifications>
+                <BIP>-</BIP>
+                <BSABe>-</BSABe>
+                <BSABwr>-</BSABwr>
+                <CCSClassification>-</CCSClassification>
+                <CoClass>-</CoClass>
+                <Forvaltningklassifikation>-</Forvaltningklassifikation>
+                <SfB>-</SfB>
+            </RelatedClassifications>
+        </Item>
+    </Items>
+</System>
