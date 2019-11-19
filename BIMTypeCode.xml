@@ -5981,7 +5981,12 @@
 			<Name_en>Duct accessories</Name_en>
 			<Name_se>Kanaltillbehör</Name_se>
 			<Sort>3</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDistributionFlowElement</IFC4_Entity>
+                <IFC4_EntityType>IfcDistributionFlowElementType</IFC4_EntityType>
+                <IFC2X3_Entity>IfcDistributionFlowElement</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDistributionFlowElementType</IFC2X3_EntityType>
+            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]</CCSClassification>
 				<Forvaltningklassifikation>bt.ven.kan</Forvaltningklassifikation>
@@ -5994,7 +5999,12 @@
 			<Name_de>Schalldämpfer</Name_de>
 			<Name_se>Ljuddämpare</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDuctSilencer</IFC4_Entity>
+                <IFC4_EntityType>IfcDuctSilencerType</IFC4_EntityType>
+                <IFC2X3_Entity>IfcFlowTreatmentDevice</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDuctSilencerType</IFC2X3_EntityType>
+            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]RQC</CCSClassification>
 			</RelatedClassifications>
@@ -6005,7 +6015,16 @@
 			<Name_de>Flamm- und Rauchschutzklappe</Name_de>
 			<Name_se>Brand-/Brandgasspjäll</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDamper</IFC4_Entity>
+                <IFC4_EntityType>IfcDamperType</IFC4_EntityType>
+                <IFC4_EnumerationType>FIRESMOKEDAMPER</IFC4_EnumerationType>
+				<IFC4_Properties>Pset_DamperTypeFireSmokeDamper</IFC4_Properties>
+                <IFC2X3_Entity>IfcFlowController</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
+                <IFC2X3_EnumerationType>FIRESMOKEDAMPER</IFC2X3_EnumerationType>
+				<IFC2X3_Properties>Pset_DamperTypeFireSmokeDamper</IFC2X3_Properties>
+            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]FMB</CCSClassification>
 			</RelatedClassifications>
@@ -6016,7 +6035,16 @@
 			<Name_de>Brand- und Rauchschutzklappe</Name_de>
 			<Name_se>Brand-/Brandgasspjäll</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDamper</IFC4_Entity>
+                <IFC4_EntityType>IfcDamperType</IFC4_EntityType>
+                <IFC4_EnumerationType>FIRESMOKEDAMPER</IFC4_EnumerationType>
+				<IFC4_Properties>Pset_DamperTypeFireSmokeDamper</IFC4_Properties>
+                <IFC2X3_Entity>IfcFlowController</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
+                <IFC2X3_EnumerationType>FIRESMOKEDAMPER</IFC2X3_EnumerationType>
+				<IFC2X3_Properties>Pset_DamperTypeFireSmokeDamper</IFC2X3_Properties>
+            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]FMB</CCSClassification>
 			</RelatedClassifications>
@@ -6027,7 +6055,12 @@
 			<Name_de>Druckentlastungsklappen</Name_de>
 			<Name_se>Övertrycksspjäll</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDamper</IFC4_Entity>
+                <IFC4_EntityType>IfcDamperType</IFC4_EntityType>
+                <IFC2X3_Entity>IfcFlowController</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
+            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]FLB</CCSClassification>
 			</RelatedClassifications>
@@ -6038,7 +6071,15 @@
 			<Name_de>Rauchschutzklappen</Name_de>
 			<Name_se>Brandgasspjäll</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDamper</IFC4_Entity>
+                <IFC4_EntityType>IfcDamperType</IFC4_EntityType>
+                <IFC4_EnumerationType>SMOKEDAMPER</IFC4_EnumerationType>
+				<IFC4_Properties>Pset_DamperTypeSmokeDamper</IFC4_Properties>
+                <IFC2X3_Entity>IfcFlowController</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
+                <IFC2X3_EnumerationType>SMOKEDAMPER</IFC2X3_EnumerationType>
+				<IFC2X3_Properties>Pset_DamperTypeSmokeDamper</IFC2X3_Properties>
 			<RelatedClassifications>
 				<CCSClassification>[L]FMB</CCSClassification>
 			</RelatedClassifications>
@@ -6049,7 +6090,12 @@
 			<Name_de>Klappe auf/zu</Name_de>
 			<Name_se>Spjäll med tvålägesmotor</Name_se>
 			<Sort>4</Sort>
-			<RelatedObjects/>
+			<RelatedObjects>
+                <IFC4_Entity>IfcDamper</IFC4_Entity>
+                <IFC4_EntityType>IfcDamperType</IFC4_EntityType>
+                <IFC2X3_Entity>IfcFlowController</IFC2X3_Entity>
+                <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
+			<RelatedClassifications>
 			<RelatedClassifications>
 				<CCSClassification>[L]QMB</CCSClassification>
 			</RelatedClassifications>
